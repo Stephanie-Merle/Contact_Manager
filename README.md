@@ -12,9 +12,5 @@ Interaction between Html page and Js without Jquery or any dependencies.
 
 ## Workflow
 
-<figure class="video_container">
-<video controls="true" allowfullscreen="true" poster="bin/screen_video.png">
-<source src="bin/contactManager.mp4" type="video/mp4">
-</video>
-</figure>
+![](bin/contactManager.gif)
 
