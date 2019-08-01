@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(99, 95, 95);
+}
+.form{
+  align-content: center;
+  margin: 10rem auto;
+  width: 280px;
+  padding: 1rem;
+  border: 1px solid rgb(43, 41, 41);
+  box-shadow: 5px rgba(0, 0, 0, 0.466); 
+  background-color: rgb(240, 240, 240);
+  color: rgb(77, 73, 73);
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+.action{
+  text-align: right;
+  margin: auto;
+}
+input{
+  margin: 1rem;
+  padding: .5rem;
+  border: 1px solid rgb(145, 144, 144);
+  box-shadow: 5px rgba(0, 0, 0, 0.466);
+}
+input:hover{
+  background-color: rgba(77, 180, 248, 0.137);
+}
